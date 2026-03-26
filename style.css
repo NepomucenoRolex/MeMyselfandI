@@ -3,6 +3,7 @@ body {
     margin: 0;
     background-color: #f4f4f4;
     text-align: center;
+    padding-bottom: 80px;
 }
 
 header {
@@ -41,7 +42,4 @@ footer {
     background-color: #222;
     color: white;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
